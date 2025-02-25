@@ -21,3 +21,5 @@ redis:6
 valkey/valkey:8
 
 minio/minio
+
+ollama/ollama
